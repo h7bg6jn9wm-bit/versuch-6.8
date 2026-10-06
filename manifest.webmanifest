@@ -1,0 +1,17 @@
+{
+  "name": "SHK Diagnose Simulator",
+  "short_name": "SHK Diagnose",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1016",
+  "theme_color": "#111821",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
